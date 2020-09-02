@@ -1,0 +1,7 @@
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\bin\Debug\DependencyInjectionWithoutDIP.exe.config
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\bin\Debug\DependencyInjectionWithoutDIP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\bin\Debug\DependencyInjectionWithoutDIP.pdb
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\obj\Debug\DependencyInjectionWithoutDIP.csprojAssemblyReference.cache
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\obj\Debug\DependencyInjectionWithoutDIP.csproj.CoreCompileInputs.cache
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\obj\Debug\DependencyInjectionWithoutDIP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\DependencyInjectionWithoutDIP\obj\Debug\DependencyInjectionWithoutDIP.pdb

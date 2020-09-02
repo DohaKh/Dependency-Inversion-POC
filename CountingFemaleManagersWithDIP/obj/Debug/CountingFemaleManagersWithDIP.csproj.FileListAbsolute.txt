@@ -1,0 +1,6 @@
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\bin\Debug\CountingFemaleManagersWithDIP.exe.config
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\bin\Debug\CountingFemaleManagersWithDIP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\bin\Debug\CountingFemaleManagersWithDIP.pdb
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\obj\Debug\CountingFemaleManagersWithDIP.csproj.CoreCompileInputs.cache
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\obj\Debug\CountingFemaleManagersWithDIP.exe
+D:\Development Plan\Career Development Plan Jun-2020\5- SOLID Principles\POCDependencyInjection\CountingFemaleManagersWithDIP\obj\Debug\CountingFemaleManagersWithDIP.pdb
